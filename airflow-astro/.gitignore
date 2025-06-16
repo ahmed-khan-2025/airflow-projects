@@ -12,5 +12,4 @@ airflow.db
 /.astro
 /include
 /plugins
-/.gitignre
-
+/.gitignore
